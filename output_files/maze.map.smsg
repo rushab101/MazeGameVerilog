@@ -1,0 +1,8 @@
+Info (10281): Verilog HDL Declaration information at maze.v(24): object "HEX0" differs only in case from object "hex0" in the same scope File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 24
+Info (10281): Verilog HDL Declaration information at maze.v(24): object "HEX1" differs only in case from object "hex1" in the same scope File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 24
+Info (10281): Verilog HDL Declaration information at maze.v(24): object "HEX2" differs only in case from object "hex2" in the same scope File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 24
+Info (10281): Verilog HDL Declaration information at maze.v(24): object "HEX3" differs only in case from object "hex3" in the same scope File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 24
+Info (10281): Verilog HDL Declaration information at maze.v(24): object "HEX4" differs only in case from object "hex4" in the same scope File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 24
+Warning (10268): Verilog HDL information at maze.v(379): always construct contains both blocking and non-blocking assignments File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 379
+Info (10281): Verilog HDL Declaration information at maze.v(251): object "START_DISPLAY" differs only in case from object "start_display" in the same scope File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 251
+Warning (10268): Verilog HDL information at maze.v(1564): always construct contains both blocking and non-blocking assignments File: E:/Desktop/MazeGameCompleteDone/maze.v Line: 1564

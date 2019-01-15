@@ -1,0 +1,357 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'RateDivider:divider|reduced_clock'
+Slack : -14.370
+TNS   : -2781.424
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -6.654
+TNS   : -857.880
+
+Type  : Slow 1100mV 85C Model Setup 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -4.541
+TNS   : -8.803
+
+Type  : Slow 1100mV 85C Model Setup 'SubMainModule:sub_module|score'
+Slack : -4.201
+TNS   : -31.928
+
+Type  : Slow 1100mV 85C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 34.634
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'RateDivider:divider|reduced_clock'
+Slack : 0.336
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.838
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SubMainModule:sub_module|score'
+Slack : 0.839
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'RateDivider:divider|reduced_clock'
+Slack : -3.996
+TNS   : -821.324
+
+Type  : Slow 1100mV 85C Model Recovery 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 15.447
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'CLOCK_50'
+Slack : 17.201
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.019
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'CLOCK_50'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'RateDivider:divider|reduced_clock'
+Slack : 1.944
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'RateDivider:divider|reduced_clock'
+Slack : -0.408
+TNS   : -191.331
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SubMainModule:sub_module|score'
+Slack : -0.394
+TNS   : -4.200
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -0.394
+TNS   : -1.060
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.877
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.770
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'RateDivider:divider|reduced_clock'
+Slack : -14.769
+TNS   : -2829.707
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -6.397
+TNS   : -808.178
+
+Type  : Slow 1100mV 0C Model Setup 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -4.660
+TNS   : -9.026
+
+Type  : Slow 1100mV 0C Model Setup 'SubMainModule:sub_module|score'
+Slack : -4.353
+TNS   : -32.860
+
+Type  : Slow 1100mV 0C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 34.748
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.019
+TNS   : -0.069
+
+Type  : Slow 1100mV 0C Model Hold 'RateDivider:divider|reduced_clock'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SubMainModule:sub_module|score'
+Slack : 0.805
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.844
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'RateDivider:divider|reduced_clock'
+Slack : -4.027
+TNS   : -838.480
+
+Type  : Slow 1100mV 0C Model Recovery 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 15.536
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'CLOCK_50'
+Slack : 17.333
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.020
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'CLOCK_50'
+Slack : 1.567
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'RateDivider:divider|reduced_clock'
+Slack : 2.091
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'RateDivider:divider|reduced_clock'
+Slack : -0.394
+TNS   : -187.509
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SubMainModule:sub_module|score'
+Slack : -0.394
+TNS   : -4.148
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -0.394
+TNS   : -1.051
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.833
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.761
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'RateDivider:divider|reduced_clock'
+Slack : -7.427
+TNS   : -1426.703
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -3.833
+TNS   : -496.547
+
+Type  : Fast 1100mV 85C Model Setup 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -2.261
+TNS   : -4.328
+
+Type  : Fast 1100mV 85C Model Setup 'SubMainModule:sub_module|score'
+Slack : -2.079
+TNS   : -15.886
+
+Type  : Fast 1100mV 85C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 36.486
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'RateDivider:divider|reduced_clock'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.233
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.411
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SubMainModule:sub_module|score'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'RateDivider:divider|reduced_clock'
+Slack : -2.075
+TNS   : -407.064
+
+Type  : Fast 1100mV 85C Model Recovery 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 17.197
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'CLOCK_50'
+Slack : 18.129
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.580
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'RateDivider:divider|reduced_clock'
+Slack : 0.879
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'CLOCK_50'
+Slack : 0.980
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'RateDivider:divider|reduced_clock'
+Slack : -0.152
+TNS   : -19.743
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SubMainModule:sub_module|score'
+Slack : 0.127
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.808
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.889
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'RateDivider:divider|reduced_clock'
+Slack : -6.922
+TNS   : -1324.007
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -3.231
+TNS   : -405.850
+
+Type  : Fast 1100mV 0C Model Setup 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -2.173
+TNS   : -4.174
+
+Type  : Fast 1100mV 0C Model Setup 'SubMainModule:sub_module|score'
+Slack : -2.019
+TNS   : -15.388
+
+Type  : Fast 1100mV 0C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 36.957
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'RateDivider:divider|reduced_clock'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.216
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SubMainModule:sub_module|score'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'RateDivider:divider|reduced_clock'
+Slack : -1.951
+TNS   : -390.345
+
+Type  : Fast 1100mV 0C Model Recovery 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 17.381
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'CLOCK_50'
+Slack : 18.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.505
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'CLOCK_50'
+Slack : 0.886
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'RateDivider:divider|reduced_clock'
+Slack : 0.915
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'RateDivider:divider|reduced_clock'
+Slack : -0.086
+TNS   : -7.510
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SubMainModule:sub_module|score'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Keyboard:mykey|PS2_Controller:PS2|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.802
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.886
+TNS   : 0.000
+
+------------------------------------------------------------
